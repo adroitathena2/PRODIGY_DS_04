@@ -1,4 +1,5 @@
-# PRODIGY_DS_Task1
+# PRODIGY_DS_Task4
+
 Problem Statement: Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
 This project is designed to analyze social media data, focusing on sentiment patterns and message characteristics in a training dataset and a validation dataset. The analysis aims to understand public opinion and attitudes towards specific topics or entities. Below is a breakdown of the various steps and analyses carried out in this project:
